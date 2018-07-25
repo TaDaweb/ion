@@ -1,0 +1,11 @@
+.directory
+.dockerignore
+.gitignore
+.travis.yml
+Makefile
+
+build
+.vscode
+deployment
+docs
+build
